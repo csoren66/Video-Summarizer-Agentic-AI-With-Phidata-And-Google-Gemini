@@ -1,8 +1,5 @@
 # Video Summarizer Agentic AI With Phidata And Google Gemini
 
-## Phidata Video AI Summarizer Agent 🎥🎤🖬
-
-Powered by Gemini 2.0 Flash Exp
 
 ### Overview
 
