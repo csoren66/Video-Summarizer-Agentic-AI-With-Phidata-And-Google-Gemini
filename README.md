@@ -32,7 +32,7 @@ The **Phidata Video AI Summarizer Agent** is an advanced AI-powered tool designe
 3. Run the application:
 
    ```bash
-   python app.py
+   streamlit app.py
    ```
 
 ### Usage
