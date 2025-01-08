@@ -1,0 +1,9 @@
+python-dotenv
+packaging
+duckduckgo-search
+sqlalchemy
+pgvector
+psycopg[binary]
+streamlit
+google-generativeai
+duckduckgo-search
