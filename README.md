@@ -8,7 +8,7 @@ The **Phidata Video AI Summarizer Agent** is an advanced AI-powered tool designe
 ### Key Features
 
 - **Video Upload Support**: Supports MP4, MOV, AVI, and MPEG4 formats, with a maximum file size limit of 200MB.
-- **AI-Powered Analysis**: Provides detailed explanations of concepts and algorithms discussed within videos.
+- **AI-Powered Analysis**: Provides detailed explanations of concepts within videos.
 - **Custom Insights**: Users can ask specific questions to extract relevant information from the video content.
 
 ### Installation and Setup
